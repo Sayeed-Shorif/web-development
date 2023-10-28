@@ -1,0 +1,131 @@
+*{
+    background-color: rgb(168, 140, 100);
+    margin-left: 5px;
+}
+img{
+    float: left;
+    width: 40%;
+    margin-top: 30px;
+}
+.headline h1{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(72, 47, 15);
+}
+.name{
+    color: black;
+    font-weight:bolder;
+    color: rgb(42, 38, 24);
+    display: inline;
+}
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.left-border{
+    border-left: 6px solid rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+.left-border > p{
+    display: inline;
+    margin-left: 5px;
+}
+.clr{
+    clear: both;
+}
+.gin{
+    float: right;
+    width: 58%;
+}
+.border{
+    border-bottom: 1px solid rgb(62, 93, 50);
+    font-size: 24px;
+}
+.down h3{
+    padding-bottom: 5px;
+}
+.gin h2{
+    font-size: 30px;
+}
+.para{
+    font-size: 17px;
+}
+.div{
+    margin-bottom: ;
+}
+.font-size{
+    font-size: 24px;
+}
+.gallery h3{
+    font-size: 25px;
+}
+.img img{
+    float: left;
+    width: 32%;
+}
+video{
+    width: 60%;
+    margin: 10px 100px;
+    
+}
+.footer h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 7px;
+    text-decoration: none;
+    color: rgb(18, 15, 17);
+    background-color: rgb(255, 253, 253);
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: azure;
+    background-color: black;
+}
+.footer button{
+    margin-left: 15px;
+    
+}
+.footer h4{
+   padding-left: 10px;
+   margin-top: 10px;
+}
+
+.button{
+    
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.navbar{
+    margin-top: 50px;
+    width: 90;
+    margin: 0; 
+    padding: 10px; 
+    color: white;
+    background-color: black;
+   
+}
+.button2{
+    
+    margin-left: 15px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.navbar p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    font-weight: 200;
+    font-weight: bold;
+    font-size: larger;
+}
+.navu{
+    margin-top: 60px;
+}
