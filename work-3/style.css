@@ -1,0 +1,121 @@
+*{
+    margin-top: 0;
+}
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;
+    line-height: 1.8em;
+    color: #666;
+}
+.img1{
+    position: relative;
+    background-attachment: fixed;
+    background-image: url(img1.jpg);
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+}
+.img2{
+    position: relative;
+    background-attachment: fixed;
+    background-image: url(img7.jpg);
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+}
+.img3{
+    position: relative;
+    background-attachment: fixed;
+    background-image: url(img9.jpg);
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+
+}
+.img4{
+    position: relative;
+    background-attachment: fixed;
+    background-image: url(img8.jpg);
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+
+}
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+.white{
+    background-color: rgb(241, 245, 249);
+}
+.white p{
+    color: rgb(17, 16, 16);
+    font-weight: 400;
+    font-size: 17px;
+}
+.black{
+    background-color: rgb(193, 175, 175);
+}
+.black p{
+    color: rgb(255, 253, 253);
+    font-weight: 400;
+    font-size: 17px;
+}
+.grey{
+    background-color: rgb(51, 65, 78);
+}
+.grey p{
+    color: rgb(249, 242, 242);
+    font-weight: 400;
+    font-size: 17px;
+}
+.img1 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    text-transform:uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+
+}
+.img2 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    text-transform:uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+
+}
+.img3 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    text-transform:uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+
+}
+.img4 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    text-transform:uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+
+}
