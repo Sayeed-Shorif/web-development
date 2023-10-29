@@ -1,0 +1,65 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: rgb(235, 238, 235);
+    border-radius: 13px;
+    box-shadow: 10px 10px 40px rgb(87, 87, 78);
+}
+.main h2{
+    font: 2em sans-serif;
+    color: rgb(72, 105, 84);
+    text-align: center;
+}
+.main p{
+    font: 1em sans-serif;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+}
+.inline input{
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+}
+.radio h3{
+    font-size: 24px;
+    font-weight: 500;
+}
+.side{
+    border-left: 4px solid rgb(82, 168, 128);
+}
+.indent{
+    padding-left: 6px;
+}
+.label {
+    font-size: 20px;
+    display: block;
+    margin-bottom: 15px;
+}
+select{
+    padding: 10px;
+    width: 320px;
+}
+.up{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 30px;
+    padding: 10px;
+    width: 400px;
+    display: block;
+
+}
+button{
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
